@@ -1,0 +1,43 @@
+.bg-img {
+    z-index: 1;
+    background-image: url('https://img.freepik.com/premium-vector/vector-seamless-pattern-healthcare-medicine-is-made-line-icons_387335-239.jpg');
+}
+
+.content {
+    position: fixed;
+    left: 0;
+    right: 0;
+    z-index: 9999;
+}
+
+#formcontent1 {
+    padding-top: 75px;
+}
+
+#formcontent2 {
+    padding-top: 100px;
+}
+
+#placeholder {
+    width: 50%;
+    height: 50%;
+}
+
+#about {
+    
+}
+
+
+/* About Page */
+
+
+#abt-content {
+    padding-top: 150px;
+    padding-right: 5%;
+}
+
+.abt-img {
+    padding-left: 50%;
+}
+
+
